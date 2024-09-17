@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end  
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on websites and game programming
-- 📫 How to reach me davioliveira0512@gmail.com
+- 📫 How to reach me davioliveira0512.profissional@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I've already worked with information from Wikipedia
 
